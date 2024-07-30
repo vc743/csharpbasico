@@ -1,0 +1,15 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\Programacion secuencial.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\Programacion secuencial.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\Programacion secuencial.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\Programacion secuencial.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\ref\Programacion secuencial.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\bin\Debug\net6.0\Programacion secuencial.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.csproj.AssemblyReference.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\ref\Programacion secuencial.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\myFirstApp\obj\Debug\net6.0\Programacion secuencial.genruntimeconfig.cache

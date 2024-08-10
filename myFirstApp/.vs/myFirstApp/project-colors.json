@@ -5,7 +5,12 @@
       "ProjectGuid": "8678fc06-21f0-42ea-a48b-404332dfd303",
       "DisplayName": "Programacion secuencial",
       "ColorIndex": 0
+    },
+    "193d9e2f-8c26-44cc-adcc-7d4b98e7460c": {
+      "ProjectGuid": "193d9e2f-8c26-44cc-adcc-7d4b98e7460c",
+      "DisplayName": "programacion condicional",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

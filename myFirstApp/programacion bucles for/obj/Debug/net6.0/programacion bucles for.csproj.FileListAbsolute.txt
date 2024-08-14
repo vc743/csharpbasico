@@ -1,0 +1,15 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\programacion bucles for.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\programacion bucles for.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\programacion bucles for.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\programacion bucles for.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\ref\programacion bucles for.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\bin\Debug\net6.0\programacion bucles for.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.csproj.AssemblyReference.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\ref\programacion bucles for.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles for\obj\Debug\net6.0\programacion bucles for.genruntimeconfig.cache

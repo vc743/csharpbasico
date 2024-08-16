@@ -1,5 +1,7 @@
-﻿using programacion_bucles_while.SumaYPromedio;
+﻿//using programacion_bucles_while.SumaYPromedio;
+//CalcularSumaYPromedio calcularSumaYPromedio = new CalcularSumaYPromedio();
+//calcularSumaYPromedio.Calcular();
 
-CalcularSumaYPromedio calcularSumaYPromedio = new CalcularSumaYPromedio();
-
-calcularSumaYPromedio.Calcular();
+using programacion_bucles_while.PiezasDeHierro;
+CalcularPiezasDeHierro calcularPiezasDeHierro =  new CalcularPiezasDeHierro();
+calcularPiezasDeHierro.Calcular();

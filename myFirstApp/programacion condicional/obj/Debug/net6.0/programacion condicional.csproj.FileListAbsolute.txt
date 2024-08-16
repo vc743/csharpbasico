@@ -1,4 +1,3 @@
-C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.csproj.AssemblyReference.cache
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.AssemblyInfoInputs.cache
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.AssemblyInfo.cs
@@ -7,9 +6,10 @@ C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\p
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\bin\Debug\net6.0\programacion condicional.deps.json
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\bin\Debug\net6.0\programacion condicional.runtimeconfig.json
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\bin\Debug\net6.0\programacion condicional.dll
-C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\bin\Debug\net6.0\ref\programacion condicional.dll
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\bin\Debug\net6.0\programacion condicional.pdb
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.dll
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\ref\programacion condicional.dll
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.pdb
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.genruntimeconfig.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\programacion condicional.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion condicional\obj\Debug\net6.0\refint\programacion condicional.dll

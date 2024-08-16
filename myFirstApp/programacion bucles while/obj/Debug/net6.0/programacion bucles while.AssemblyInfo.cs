@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programacion bucles while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8695d4334635ec155895d296a32a10dd075f859f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbdaca823a9290231f1287c9811d0e7f9c102b62")]
 [assembly: System.Reflection.AssemblyProductAttribute("programacion bucles while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programacion bucles while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

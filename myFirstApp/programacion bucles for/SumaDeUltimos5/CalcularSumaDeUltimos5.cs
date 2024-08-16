@@ -5,6 +5,7 @@
         public void Calcular()
         {
             int[] numeros = new int[10];
+            string linea = string.Empty;
 
             for (int i = 0; i < 10; i++)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programacion secuencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8695d4334635ec155895d296a32a10dd075f859f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programacion secuencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programacion secuencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

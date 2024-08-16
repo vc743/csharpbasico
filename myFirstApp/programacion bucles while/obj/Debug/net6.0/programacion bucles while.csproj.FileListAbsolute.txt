@@ -1,0 +1,15 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\bin\Debug\net6.0\programacion bucles while.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\bin\Debug\net6.0\programacion bucles while.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\bin\Debug\net6.0\programacion bucles while.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\bin\Debug\net6.0\programacion bucles while.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\bin\Debug\net6.0\programacion bucles while.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\refint\programacion bucles while.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\programacion bucles while.genruntimeconfig.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion bucles while\obj\Debug\net6.0\ref\programacion bucles while.dll

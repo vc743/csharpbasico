@@ -5,13 +5,29 @@
         public void Calcular()
         {
             // Conjunto de 10 numeros
-            int[] numeros = { 15, 22, 33, 40, 57, 60, 71, 80, 90, 101 };
+            int[] numeros = new int[10];
+            string linea = string.Empty;
 
             int contador = 0;
 
             // Iterar sobre cada numero en el conjunto
-            for (int i = 0; i < numeros.Length; i++)
+            for (int i = 0; i < 10; i++)
             {
+                Console.Write("Ingrese un numero: ");
+                linea = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(linea))
+                {
+                    Console.WriteLine("El valor es requerido.");
+                    return;
+                }
+
+                if (!int.TryParse(linea, out numeros[i]))
+                {
+                    Console.WriteLine("Entrada invalida.");
+                    return;
+                }
+
                 // Verificar si el numero actual cumple con una de las condiciones
                 if (numeros[i] % 3 == 0 || numeros[i] % 5 == 0)
                 {

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\piezasdehierro\\calcularpiezasdehierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\piezasdehierro\\calcularpiezasdehierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\dimensionesdetriangulos\\calculardimensionesdetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\dimensionesdetriangulos\\calculardimensionesdetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
-              "RelativeDocumentMoniker": "programacion bucles while\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
-              "RelativeToolTip": "programacion bucles while\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
+              "RelativeDocumentMoniker": "programacion bucles for\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
+              "RelativeToolTip": "programacion bucles for\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T17:00:12.507Z",
+              "WhenOpened": "2024-08-17T00:09:27.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalcularPiezasDeHierro.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
-              "RelativeDocumentMoniker": "programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
-              "RelativeToolTip": "programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
+              "Title": "CalcularDimensionesDeTriangulos.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
+              "RelativeDocumentMoniker": "programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
+              "RelativeToolTip": "programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T16:49:16.468Z",
+              "WhenOpened": "2024-08-17T00:03:45.923Z",
               "EditorCaption": ""
             }
           ]

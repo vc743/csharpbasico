@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\sumaypromedio\\calcularsumaypromedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\sumaypromedio\\calcularsumaypromedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\divisiblespor3y5\\calcularsiesdivisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\divisiblespor3y5\\calcularsiesdivisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\sumadeultimos5\\calcularsumadeultimos5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\sumadeultimos5\\calcularsumadeultimos5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\piezasdehierro\\calcularpiezasdehierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\piezasdehierro\\calcularpiezasdehierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
+              "RelativeDocumentMoniker": "programacion bucles while\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
+              "RelativeToolTip": "programacion bucles while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:54:38.539Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,41 +47,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalcularSumaDeUltimos5.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "RelativeToolTip": "programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T01:18:49.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalcularSiEsDivisible.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "RelativeToolTip": "programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T01:18:09.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs*",
-              "RelativeToolTip": "programacion bucles for\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Title": "CalcularSumaYPromedio.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\SumaYPromedio\\CalcularSumaYPromedio.cs",
+              "RelativeDocumentMoniker": "programacion bucles while\\SumaYPromedio\\CalcularSumaYPromedio.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\SumaYPromedio\\CalcularSumaYPromedio.cs",
+              "RelativeToolTip": "programacion bucles while\\SumaYPromedio\\CalcularSumaYPromedio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:09:27.806Z",
+              "WhenOpened": "2024-08-20T21:52:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcularPiezasDeHierro.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
+              "RelativeDocumentMoniker": "programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
+              "RelativeToolTip": "programacion bucles while\\PiezasDeHierro\\CalcularPiezasDeHierro.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:56:12.574Z",
               "EditorCaption": ""
             }
           ]

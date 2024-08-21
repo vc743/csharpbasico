@@ -4,22 +4,36 @@
     {
         public void Calcular()
         {
-            int[] numeros = new int[10];
-
-            for (int i = 0; i < 10; i++)
+            try
             {
-                Console.WriteLine("Ingrese un numero:");
-                numeros[i] = int.Parse(Console.ReadLine());
+                int suma = 0;
+                string linea = string.Empty;
+
+                for (int i = 0; i < 10; i++)
+                {
+                    Console.Write("Ingrese un numero: ");
+                    int numero;
+
+                    if (!int.TryParse(Console.ReadLine(), out numero))
+                    {
+                        Console.Write("Entrada invalida.");
+                        return;
+                    }
+
+                    if (i >= 5)
+                    {
+                        suma += numero;
+                    }
+
+                }
+
+                Console.WriteLine($"La suma de los ultimos 5 numeros es: { suma }");
+
             }
-
-            int suma = 0;
-
-            for (int i = 5;i < 10; i++)
+            catch (Exception ex)
             {
-                suma += numeros[i];
+                Console.WriteLine($"Ocurrio un error: {ex}");
             }
-
-            Console.WriteLine($"La suma de los ultimos 5 numeros es: {suma}");
         }
     }
 }

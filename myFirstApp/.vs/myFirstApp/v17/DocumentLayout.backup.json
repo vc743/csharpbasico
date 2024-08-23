@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\divisiblespor3y5\\calcularsiesdivisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\divisiblespor3y5\\calcularsiesdivisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\sumadeultimos5\\calcularsumadeultimos5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\sumadeultimos5\\calcularsumadeultimos5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\dimensionesdetriangulos\\calculardimensionesdetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\dimensionesdetriangulos\\calculardimensionesdetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\sueldosdeempleados\\calcularsueldosdeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\sueldosdeempleados\\calcularsueldosdeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalcularDimensionesDeTriangulos.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
-              "RelativeToolTip": "programacion bucles for\\DimensionesDeTriangulos\\CalcularDimensionesDeTriangulos.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T17:04:49.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalcularSumaDeUltimos5.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "RelativeToolTip": "programacion bucles for\\SumaDeUltimos5\\CalcularSumaDeUltimos5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T17:04:45.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
               "RelativeDocumentMoniker": "programacion bucles for\\Program.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
               "RelativeToolTip": "programacion bucles for\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:16:17.546Z",
+              "WhenOpened": "2024-08-23T19:46:22.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalcularSiEsDivisible.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "RelativeToolTip": "programacion bucles for\\DivisiblesPor3Y5\\CalcularSiEsDivisible.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwCUAAABgAAAAAAAAAA==",
+              "Title": "CalcularSueldosDeEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
+              "RelativeDocumentMoniker": "programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
+              "RelativeToolTip": "programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAEwCUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:16:14.34Z",
+              "WhenOpened": "2024-08-23T19:18:50.432Z",
               "EditorCaption": ""
             }
           ]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\sueldosdeempleados\\calcularsueldosdeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\sueldosdeempleados\\calcularsueldosdeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\areasdetriangulos\\calcularareadetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\areasdetriangulos\\calcularareadetriangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16B7E59-1377-4E5D-BE8F-9650700EA2B2}|programacion bucles for\\programacion bucles for.csproj|solutionrelative:programacion bucles for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688AE410-7CFE-45BC-8B58-DD2D5E925258}|programacion bucles while\\programacion bucles while.csproj|solutionrelative:programacion bucles while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\Program.cs",
-              "RelativeToolTip": "programacion bucles for\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
+              "RelativeDocumentMoniker": "programacion bucles while\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\Program.cs",
+              "RelativeToolTip": "programacion bucles while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:46:22.423Z",
+              "WhenOpened": "2024-08-23T22:17:12.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalcularSueldosDeEmpleados.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
-              "RelativeDocumentMoniker": "programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
-              "RelativeToolTip": "programacion bucles for\\SueldosDeEmpleados\\CalcularSueldosDeEmpleados.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAEwD0AAAAxAAAAAAAAAA==",
+              "Title": "CalcularAreaDeTriangulos.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\AreasDeTriangulos\\CalcularAreaDeTriangulos.cs",
+              "RelativeDocumentMoniker": "programacion bucles while\\AreasDeTriangulos\\CalcularAreaDeTriangulos.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion bucles while\\AreasDeTriangulos\\CalcularAreaDeTriangulos.cs*",
+              "RelativeToolTip": "programacion bucles while\\AreasDeTriangulos\\CalcularAreaDeTriangulos.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:18:50.432Z",
+              "WhenOpened": "2024-08-23T21:20:42.792Z",
               "EditorCaption": ""
             }
           ]

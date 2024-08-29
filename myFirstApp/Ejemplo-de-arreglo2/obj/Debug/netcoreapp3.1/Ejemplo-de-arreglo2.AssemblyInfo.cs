@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("programacion bucles while")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-de-arreglo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78494ac9b8f4e41747553ab001491932c8464e32")]
-[assembly: System.Reflection.AssemblyProductAttribute("programacion bucles while")]
-[assembly: System.Reflection.AssemblyTitleAttribute("programacion bucles while")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-de-arreglo2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-de-arreglo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

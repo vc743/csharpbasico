@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E48FDD92-E4FA-4DEF-8DFD-3A7F6CF206A0}|Ejemplo-de-arreglo6\\Ejemplo-de-arreglo6.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-de-arreglo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E48FDD92-E4FA-4DEF-8DFD-3A7F6CF206A0}|Ejemplo-de-arreglo6\\Ejemplo-de-arreglo6.csproj|solutionrelative:ejemplo-de-arreglo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7BE981-8A34-446A-BB9D-8A89B772B527}|Ejemplo-de-arreglo5\\Ejemplo-de-arreglo5.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-de-arreglo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD7BE981-8A34-446A-BB9D-8A89B772B527}|Ejemplo-de-arreglo5\\Ejemplo-de-arreglo5.csproj|solutionrelative:ejemplo-de-arreglo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A963AE63-BE3B-4E0B-9ADE-634D4ED510D2}|Ejemplo-de-arreglo4\\Ejemplo-de-arreglo4.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-de-arreglo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A963AE63-BE3B-4E0B-9ADE-634D4ED510D2}|Ejemplo-de-arreglo4\\Ejemplo-de-arreglo4.csproj|solutionrelative:ejemplo-de-arreglo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71FA5BAF-A5CB-4E18-B8EC-37E876283023}|Ejemplo-de-arreglo7\\Ejemplo-de-arreglo7.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-de-arreglo7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FA5BAF-A5CB-4E18-B8EC-37E876283023}|Ejemplo-de-arreglo7\\Ejemplo-de-arreglo7.csproj|solutionrelative:ejemplo-de-arreglo7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo6\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo-de-arreglo6\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo6\\Program.cs*",
-              "RelativeToolTip": "Ejemplo-de-arreglo6\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo-de-arreglo7\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo7\\Program.cs",
+              "RelativeToolTip": "Ejemplo-de-arreglo7\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:51:43.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo5\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo-de-arreglo5\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo5\\Program.cs",
-              "RelativeToolTip": "Ejemplo-de-arreglo5\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:53:15.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo4\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo-de-arreglo4\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglo4\\Program.cs",
-              "RelativeToolTip": "Ejemplo-de-arreglo4\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:35:38.074Z",
+              "WhenOpened": "2024-08-29T23:16:57.351Z",
               "EditorCaption": ""
             }
           ]

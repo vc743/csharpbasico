@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Programacion secuencial")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-de-arreglo7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4bd93ced9f57e74ba616b92b49b32f55d0326c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Programacion secuencial")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Programacion secuencial")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-de-arreglo7")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-de-arreglo7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

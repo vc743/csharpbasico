@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglo6\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglo6.genruntimeconfig.cache

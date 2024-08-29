@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-de-arreglo3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6271248d6e2895dd4f9e5d5e8aa54b27c16da9d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e1ffac4cf9cbcfd3e21761e29442d92b5f0c5f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-de-arreglo3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-de-arreglo3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

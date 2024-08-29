@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejemplo-de-arreglo5/1.0.0": {
+        "runtime": {
+          "Ejemplo-de-arreglo5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo-de-arreglo5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

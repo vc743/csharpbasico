@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8922307A-D143-418A-9B81-CF2276CA2415}|programaArray1\\programaArray1.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programaarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8922307A-D143-418A-9B81-CF2276CA2415}|programaArray1\\programaArray1.csproj|solutionrelative:programaarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD17919D-4585-4B08-89CA-F7A1ACFB4121}|Ejemplos-de-arreglos\\Ejemplos-de-arreglos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplos-de-arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD17919D-4585-4B08-89CA-F7A1ACFB4121}|Ejemplos-de-arreglos\\Ejemplos-de-arreglos.csproj|solutionrelative:ejemplos-de-arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray1\\Program.cs",
-              "RelativeDocumentMoniker": "programaArray1\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray1\\Program.cs*",
-              "RelativeToolTip": "programaArray1\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplos-de-arreglos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplos-de-arreglos\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplos-de-arreglos\\Program.cs",
+              "RelativeToolTip": "Ejemplos-de-arreglos\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:14:25.169Z",
+              "WhenOpened": "2024-08-29T00:56:46.4Z",
               "EditorCaption": ""
             }
           ]

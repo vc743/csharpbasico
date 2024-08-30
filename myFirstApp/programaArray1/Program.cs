@@ -13,12 +13,19 @@ namespace programaArray1
 
         static void MostrarNumeros()
         {
-            numeros = new int[20];
-
-            for (int i = 0; i < numeros.Length; i++)
+            try
             {
-                numeros[i] = i * 5;
-                Console.WriteLine($"Numero en la posicion {i}: {numeros[i]}");
+                numeros = new int[20];
+
+                for (int i = 0; i < numeros.Length; i++)
+                {
+                    numeros[i] = i * 5;
+                    Console.WriteLine($"Numero en la posicion {i}: {numeros[i]}");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
     }

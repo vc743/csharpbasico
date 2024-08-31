@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\bin\Debug\netcoreapp3.1\Ejemplo-de-foreach.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-foreach\obj\Debug\netcoreapp3.1\Ejemplo-de-foreach.genruntimeconfig.cache

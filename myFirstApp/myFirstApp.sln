@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-arreglo7", "Ejem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programaArray2", "programaArray2\programaArray2.csproj", "{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-de-foreach", "Ejemplo-de-foreach\Ejemplo-de-foreach.csproj", "{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

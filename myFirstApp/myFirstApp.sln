@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-arreglo6", "Ejem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-arreglo7", "Ejemplo-de-arreglo7\Ejemplo-de-arreglo7.csproj", "{71FA5BAF-A5CB-4E18-B8EC-37E876283023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programaArray2", "programaArray2\programaArray2.csproj", "{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programaArray2", "programaArray2\programaArray2.csproj", "{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-de-foreach", "Ejemplo-de-foreach\Ejemplo-de-foreach.csproj", "{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-foreach", "Ejemplo-de-foreach\Ejemplo-de-foreach.csproj", "{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglos-a-metodos", "Ejemplo-paso-de-arreglos-a-metodos\Ejemplo-paso-de-arreglos-a-metodos.csproj", "{244BD0A2-6671-415D-9217-DD7190B4BF28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

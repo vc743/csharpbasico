@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglos-a-metodos\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglos-a-metodos.genruntimeconfig.cache

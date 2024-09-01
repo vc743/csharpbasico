@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-de-arreglos-bidimen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso-de-estudio-simulacion-barajar-repartir-cartas", "Caso-de-estudio-simulacion-barajar-repartir-cartas\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj", "{59640FD6-3C89-4680-AC20-A9D22A06C199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programaArray3", "programaArray3\programaArray3.csproj", "{93E3E1DB-9672-43E2-8534-31D9A840FF05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

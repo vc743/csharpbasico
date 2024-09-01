@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59640FD6-3C89-4680-AC20-A9D22A06C199}|Caso-de-estudio-simulacion-barajar-repartir-cartas\\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\caso-de-estudio-simulacion-barajar-repartir-cartas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59640FD6-3C89-4680-AC20-A9D22A06C199}|Caso-de-estudio-simulacion-barajar-repartir-cartas\\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj|solutionrelative:caso-de-estudio-simulacion-barajar-repartir-cartas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93E3E1DB-9672-43E2-8534-31D9A840FF05}|programaArray3\\programaArray3.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programaarray3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E3E1DB-9672-43E2-8534-31D9A840FF05}|programaArray3\\programaArray3.csproj|solutionrelative:programaarray3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}|programaArray2\\programaArray2.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programaarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D27367B-F75A-4DA0-8D83-3F5EF856A9A0}|programaArray2\\programaArray2.csproj|solutionrelative:programaarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray2\\Program.cs",
+              "RelativeDocumentMoniker": "programaArray2\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray2\\Program.cs",
+              "RelativeToolTip": "programaArray2\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:13:11.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
-              "RelativeDocumentMoniker": "Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
-              "RelativeToolTip": "Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray3\\Program.cs",
+              "RelativeDocumentMoniker": "programaArray3\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programaArray3\\Program.cs",
+              "RelativeToolTip": "programaArray3\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwDQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:34:19.299Z",
+              "WhenOpened": "2024-09-01T02:07:18.579Z",
               "EditorCaption": ""
             }
           ]

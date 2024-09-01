@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\bin\Debug\netcoreapp3.1\programaArray3.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programaArray3\obj\Debug\netcoreapp3.1\programaArray3.genruntimeconfig.cache

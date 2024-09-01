@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-paso-de-arreglos-a-metodos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37686641cfc2e9ac067e955db0c3817bfea6f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+496309a1cddb6e457b009ff7dc0e0ed4d02db1f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-paso-de-arreglos-a-metodos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-paso-de-arreglos-a-metodos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

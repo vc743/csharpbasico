@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\bin\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-de-arreglos-bidimensionales\obj\Debug\netcoreapp3.1\Ejemplo-de-arreglos-bidimensionales.genruntimeconfig.cache

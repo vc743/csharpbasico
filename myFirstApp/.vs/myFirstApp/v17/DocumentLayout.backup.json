@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CABEA059-94EF-4F0C-8149-1707974B824A}|Ejemplo-paso-de-arreglo-valor-referencia\\Ejemplo-paso-de-arreglo-valor-referencia.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-paso-de-arreglo-valor-referencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABEA059-94EF-4F0C-8149-1707974B824A}|Ejemplo-paso-de-arreglo-valor-referencia\\Ejemplo-paso-de-arreglo-valor-referencia.csproj|solutionrelative:ejemplo-paso-de-arreglo-valor-referencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{244BD0A2-6671-415D-9217-DD7190B4BF28}|Ejemplo-paso-de-arreglos-a-metodos\\Ejemplo-paso-de-arreglos-a-metodos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-paso-de-arreglos-a-metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{244BD0A2-6671-415D-9217-DD7190B4BF28}|Ejemplo-paso-de-arreglos-a-metodos\\Ejemplo-paso-de-arreglos-a-metodos.csproj|solutionrelative:ejemplo-paso-de-arreglos-a-metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,11 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-paso-de-arreglo-valor-referencia\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo-paso-de-arreglo-valor-referencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-paso-de-arreglo-valor-referencia\\Program.cs",
+              "RelativeToolTip": "Ejemplo-paso-de-arreglo-valor-referencia\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwFwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:29:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-paso-de-arreglos-a-metodos\\Program.cs",
               "RelativeDocumentMoniker": "Ejemplo-paso-de-arreglos-a-metodos\\Program.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-paso-de-arreglos-a-metodos\\Program.cs",
               "RelativeToolTip": "Ejemplo-paso-de-arreglos-a-metodos\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwCsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T22:58:38.038Z",
               "EditorCaption": ""

@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\bin\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Ejemplo-paso-de-arreglo-valor-referencia\obj\Debug\netcoreapp3.1\Ejemplo-paso-de-arreglo-valor-referencia.genruntimeconfig.cache

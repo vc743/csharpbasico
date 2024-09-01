@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOQqWU1VM3U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-paso-de-arreglo-valor-referencia\\Ejemplo-paso-de-arreglo-valor-referencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Contreras Vargas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-foreach", "Ejemp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglos-a-metodos", "Ejemplo-paso-de-arreglos-a-metodos\Ejemplo-paso-de-arreglos-a-metodos.csproj", "{244BD0A2-6671-415D-9217-DD7190B4BF28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglo-valor-referencia", "Ejemplo-paso-de-arreglo-valor-referencia\Ejemplo-paso-de-arreglo-valor-referencia.csproj", "{CABEA059-94EF-4F0C-8149-1707974B824A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{244BD0A2-6671-415D-9217-DD7190B4BF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABEA059-94EF-4F0C-8149-1707974B824A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABEA059-94EF-4F0C-8149-1707974B824A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABEA059-94EF-4F0C-8149-1707974B824A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABEA059-94EF-4F0C-8149-1707974B824A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

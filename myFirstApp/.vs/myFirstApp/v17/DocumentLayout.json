@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}|Ejemplo-de-arreglos-bidimensionales\\Ejemplo-de-arreglos-bidimensionales.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\ejemplo-de-arreglos-bidimensionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}|Ejemplo-de-arreglos-bidimensionales\\Ejemplo-de-arreglos-bidimensionales.csproj|solutionrelative:ejemplo-de-arreglos-bidimensionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59640FD6-3C89-4680-AC20-A9D22A06C199}|Caso-de-estudio-simulacion-barajar-repartir-cartas\\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\caso-de-estudio-simulacion-barajar-repartir-cartas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59640FD6-3C89-4680-AC20-A9D22A06C199}|Caso-de-estudio-simulacion-barajar-repartir-cartas\\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj|solutionrelative:caso-de-estudio-simulacion-barajar-repartir-cartas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglos-bidimensionales\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo-de-arreglos-bidimensionales\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Ejemplo-de-arreglos-bidimensionales\\Program.cs",
-              "RelativeToolTip": "Ejemplo-de-arreglos-bidimensionales\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwDIAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
+              "RelativeDocumentMoniker": "Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
+              "RelativeToolTip": "Caso-de-estudio-simulacion-barajar-repartir-cartas\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:08:44.779Z",
+              "WhenOpened": "2024-09-01T01:34:19.299Z",
               "EditorCaption": ""
             }
           ]

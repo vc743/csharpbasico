@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglo-val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-de-arreglos-bidimensionales", "Ejemplo-de-arreglos-bidimensionales\Ejemplo-de-arreglos-bidimensionales.csproj", "{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso-de-estudio-simulacion-barajar-repartir-cartas", "Caso-de-estudio-simulacion-barajar-repartir-cartas\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj", "{59640FD6-3C89-4680-AC20-A9D22A06C199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59640FD6-3C89-4680-AC20-A9D22A06C199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Caso_de_estudio_simulacion_barajar_repartir_cartas</RootNamespace>
+  </PropertyGroup>
+
+</Project>

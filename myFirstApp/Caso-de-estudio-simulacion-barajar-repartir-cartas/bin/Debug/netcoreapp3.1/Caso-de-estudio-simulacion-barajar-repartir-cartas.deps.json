@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Caso-de-estudio-simulacion-barajar-repartir-cartas/1.0.0": {
+        "runtime": {
+          "Caso-de-estudio-simulacion-barajar-repartir-cartas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caso-de-estudio-simulacion-barajar-repartir-cartas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

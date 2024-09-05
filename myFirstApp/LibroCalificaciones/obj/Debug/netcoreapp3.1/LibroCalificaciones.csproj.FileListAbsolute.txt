@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\bin\Debug\netcoreapp3.1\LibroCalificaciones.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\LibroCalificaciones\obj\Debug\netcoreapp3.1\LibroCalificaciones.genruntimeconfig.cache

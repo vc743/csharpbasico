@@ -31,15 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programaArray2", "programaA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-foreach", "Ejemplo-de-foreach\Ejemplo-de-foreach.csproj", "{4C41CE36-B391-4BB1-ADB1-AE0CD4502537}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglos-a-metodos", "Ejemplo-paso-de-arreglos-a-metodos\Ejemplo-paso-de-arreglos-a-metodos.csproj", "{244BD0A2-6671-415D-9217-DD7190B4BF28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-paso-de-arreglos-a-metodos", "Ejemplo-paso-de-arreglos-a-metodos\Ejemplo-paso-de-arreglos-a-metodos.csproj", "{244BD0A2-6671-415D-9217-DD7190B4BF28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-paso-de-arreglo-valor-referencia", "Ejemplo-paso-de-arreglo-valor-referencia\Ejemplo-paso-de-arreglo-valor-referencia.csproj", "{CABEA059-94EF-4F0C-8149-1707974B824A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-paso-de-arreglo-valor-referencia", "Ejemplo-paso-de-arreglo-valor-referencia\Ejemplo-paso-de-arreglo-valor-referencia.csproj", "{CABEA059-94EF-4F0C-8149-1707974B824A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-de-arreglos-bidimensionales", "Ejemplo-de-arreglos-bidimensionales\Ejemplo-de-arreglos-bidimensionales.csproj", "{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo-de-arreglos-bidimensionales", "Ejemplo-de-arreglos-bidimensionales\Ejemplo-de-arreglos-bidimensionales.csproj", "{4A91193C-77BF-4A9D-90FE-C5F3CA6DC2E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso-de-estudio-simulacion-barajar-repartir-cartas", "Caso-de-estudio-simulacion-barajar-repartir-cartas\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj", "{59640FD6-3C89-4680-AC20-A9D22A06C199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caso-de-estudio-simulacion-barajar-repartir-cartas", "Caso-de-estudio-simulacion-barajar-repartir-cartas\Caso-de-estudio-simulacion-barajar-repartir-cartas.csproj", "{59640FD6-3C89-4680-AC20-A9D22A06C199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programaArray3", "programaArray3\programaArray3.csproj", "{93E3E1DB-9672-43E2-8534-31D9A840FF05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programaArray3", "programaArray3\programaArray3.csproj", "{93E3E1DB-9672-43E2-8534-31D9A840FF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibroCalificaciones", "LibroCalificaciones\LibroCalificaciones.csproj", "{84842806-9E98-4EE4-9A56-5BCF9198EF78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E3E1DB-9672-43E2-8534-31D9A840FF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84842806-9E98-4EE4-9A56-5BCF9198EF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84842806-9E98-4EE4-9A56-5BCF9198EF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84842806-9E98-4EE4-9A56-5BCF9198EF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84842806-9E98-4EE4-9A56-5BCF9198EF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

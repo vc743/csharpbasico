@@ -1,0 +1,15 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\bin\Debug\net8.0\programacion_orientada_a_objetos.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\bin\Debug\net8.0\programacion_orientada_a_objetos.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\bin\Debug\net8.0\programacion_orientada_a_objetos.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\bin\Debug\net8.0\programacion_orientada_a_objetos.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\bin\Debug\net8.0\programacion_orientada_a_objetos.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\refint\programacion_orientada_a_objetos.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\programacion_orientada_a_objetos.genruntimeconfig.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\programacion_orientada_a_objetos\obj\Debug\net8.0\ref\programacion_orientada_a_objetos.dll

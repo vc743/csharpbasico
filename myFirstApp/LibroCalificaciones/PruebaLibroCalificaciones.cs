@@ -9,13 +9,17 @@ public class PruebaLibroCalificaciones
         // crea un objeto LibroCalificaciones y lo asigna a miLibroCalificaciones
         LibroCalificaciones miLibroCalificaciones = new LibroCalificaciones();
 
+        // muestra el valor inicial de NombreCurso
+        Console.WriteLine("El nombre inicial del curso es: '{0}'\n", miLibroCalificaciones.NombreCurso);
+
         // pide el nombre del curso y lo recibe como entrada
         Console.WriteLine("Por favor escriba el nombre del curso:");
-        string nombreDelCurso = Console.ReadLine(); // lee una línea de texto
+        string elNombre = Console.ReadLine(); // lee una línea de texto
+        miLibroCalificaciones.NombreCurso = elNombre; 
         Console.WriteLine(); // imprime en pantalla una línea en blanco
 
         // llama al método MostrarMensaje de miLibroCalificaciones 
         // y pasa nombreDelCurso como argumento
-        miLibroCalificaciones.MostrarMensaje(nombreDelCurso);
+        miLibroCalificaciones.MostrarMensaje();
     }
 }

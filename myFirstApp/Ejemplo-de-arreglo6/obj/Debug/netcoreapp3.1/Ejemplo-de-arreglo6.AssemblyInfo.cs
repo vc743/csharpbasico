@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-de-arreglo6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6818278e6c15c38cc192269732416f3ce65ba567")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a954d3d6017cfa1d16c6592536080b630e2fee07")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-de-arreglo6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-de-arreglo6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

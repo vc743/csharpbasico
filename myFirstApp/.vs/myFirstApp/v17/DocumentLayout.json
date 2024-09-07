@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{84842806-9E98-4EE4-9A56-5BCF9198EF78}|LibroCalificaciones\\LibroCalificaciones.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\librocalificaciones\\pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84842806-9E98-4EE4-9A56-5BCF9198EF78}|LibroCalificaciones\\LibroCalificaciones.csproj|solutionrelative:librocalificaciones\\pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84842806-9E98-4EE4-9A56-5BCF9198EF78}|LibroCalificaciones\\LibroCalificaciones.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\librocalificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84842806-9E98-4EE4-9A56-5BCF9198EF78}|LibroCalificaciones\\LibroCalificaciones.csproj|solutionrelative:librocalificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PruebaLibroCalificaciones.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\LibroCalificaciones\\PruebaLibroCalificaciones.cs",
-              "RelativeDocumentMoniker": "LibroCalificaciones\\PruebaLibroCalificaciones.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\LibroCalificaciones\\PruebaLibroCalificaciones.cs",
-              "RelativeToolTip": "LibroCalificaciones\\PruebaLibroCalificaciones.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wBIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:30:01.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\LibroCalificaciones\\Program.cs",
-              "RelativeDocumentMoniker": "LibroCalificaciones\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\LibroCalificaciones\\Program.cs",
-              "RelativeToolTip": "LibroCalificaciones\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:30:00.216Z",
-              "EditorCaption": ""
             }
           ]
         }

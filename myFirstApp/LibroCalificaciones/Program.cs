@@ -4,6 +4,12 @@ public class LibroCalificaciones
 {
     private string nombreCurso; // nombre del curso para este LibroCalificaciones
 
+    // el constructor inicializa nombreCurso con el objeto string suministrado como argumento
+    public LibroCalificaciones( string nombre)
+    {
+        NombreCurso = nombre; //inicializa nombreCurso usando la propiedad
+    }
+
     // propiedad para obtener (get) y establecer (set) el nombre del curso
     public string NombreCurso
     {

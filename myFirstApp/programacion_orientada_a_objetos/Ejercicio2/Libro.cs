@@ -58,6 +58,15 @@ namespace programacion_orientada_a_objetos.Ejercicio2
             Console.WriteLine($"Titulo:\t\t\t{Titulo}");
             Console.WriteLine($"Autor:\t\t\t{Autor}");
             Console.WriteLine($"Numero de paginas:\t{Paginas}");
+
+            if (EsLargo())
+            {
+                Console.WriteLine("El libro es largo.");
+            }
+            else
+            {
+                Console.WriteLine("El libro no es largo.");
+            }
         }
 
         public bool EsLargo()

@@ -1,5 +1,5 @@
 ﻿
-namespace programacion_orientada_a_objetos.Ejercicio1
+namespace programacion_orientada_a_objetos.Ejercicio2
 {
     internal class Libro
     {

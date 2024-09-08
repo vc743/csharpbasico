@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caso-de-estudio-simulacion-barajar-repartir-cartas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a954d3d6017cfa1d16c6592536080b630e2fee07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd0f1e2cf48319aedd0a8e8cf1f8cd4f6584af14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caso-de-estudio-simulacion-barajar-repartir-cartas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caso-de-estudio-simulacion-barajar-repartir-cartas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

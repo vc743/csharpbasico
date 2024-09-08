@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\ejercicio3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\ejercicio3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
+              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
+              "RelativeToolTip": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:26:00.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
+              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
+              "RelativeToolTip": "programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA3wEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:26:26.992Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +58,7 @@
               "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Program.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Program.cs",
               "RelativeToolTip": "programacion_orientada_a_objetos\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T17:27:32.435Z",
               "EditorCaption": ""
@@ -40,19 +70,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "RelativeToolTip": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAnwEEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T17:26:00.68Z",
-              "EditorCaption": ""
             }
           ]
         }

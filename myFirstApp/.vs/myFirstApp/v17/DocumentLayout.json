@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\ejercicio3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\ejercicio3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEF1E47-DEE9-45E4-AC63-0A5E3F85496A}|programacion_orientada_a_objetos\\programacion_orientada_a_objetos.csproj|solutionrelative:programacion_orientada_a_objetos\\ejercicio2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpbasico\\myfirstapp\\sistema-de-nomina\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFD39-5425-45A9-B881-A5D7DA8D81C6}|Sistema-de-nomina\\Sistema-de-nomina.csproj|solutionrelative:sistema-de-nomina\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "RelativeToolTip": "programacion_orientada_a_objetos\\Ejercicio2\\Libro.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T17:26:00.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
-              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
-              "RelativeToolTip": "programacion_orientada_a_objetos\\Ejercicio3\\Alumno.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA3wEAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T19:26:26.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Program.cs",
-              "RelativeDocumentMoniker": "programacion_orientada_a_objetos\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\programacion_orientada_a_objetos\\Program.cs",
-              "RelativeToolTip": "programacion_orientada_a_objetos\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T17:27:32.435Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -70,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoBaseMasComision.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoBaseMasComision.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\EmpleadoBaseMasComision.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoBaseMasComision.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\EmpleadoBaseMasComision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:15:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoPorComision.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoPorComision.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\EmpleadoPorComision.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoPorComision.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\EmpleadoPorComision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:09:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:30:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoAsalariado.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoAsalariado.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\EmpleadoAsalariado.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\EmpleadoAsalariado.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\EmpleadoAsalariado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:25:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\Empleado.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\Empleado.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\Empleado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:17:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema-de-nomina\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpbasico\\myFirstApp\\Sistema-de-nomina\\Program.cs",
+              "RelativeToolTip": "Sistema-de-nomina\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:16:15.136Z",
+              "EditorCaption": ""
             }
           ]
         }

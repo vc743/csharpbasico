@@ -1,0 +1,14 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.runtimeconfig.dev.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\bin\Debug\netcoreapp3.1\Sistema-de-nomina.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpbasico\myFirstApp\Sistema-de-nomina\obj\Debug\netcoreapp3.1\Sistema-de-nomina.genruntimeconfig.cache
